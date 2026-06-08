@@ -120,7 +120,7 @@ Respuesta:
 Clona el repositorio e instala dependencias:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Mgomez65/url-shortener-api
 cd url-shortener-api
 npm install
 ```
